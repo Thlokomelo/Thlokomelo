@@ -7,7 +7,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thlokomelo&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 
