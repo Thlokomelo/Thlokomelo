@@ -1,7 +1,5 @@
 ### Hi there, I'm Thlokomelo, a web developer in making and I love coding! 👋
 
-https://giphy.com/stickers/Sigma-Software-transparent-bx3Cvt88j7PtM4SOaS
-
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on SQL, MERN Stack and Java projects
