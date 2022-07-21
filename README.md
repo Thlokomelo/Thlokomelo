@@ -1,9 +1,19 @@
 ### Hi there, I'm Thlokomelo, a web developer in making and I love coding! 👋
 
+
+---
+
+### :woman_technologist: About Me :
+
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on SQL, MERN Stack and Java projects
 - 📫 How to reach me: thlokomelo.hlomuka@gmail.com
+
+
+---
+
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Thlokomelo&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
