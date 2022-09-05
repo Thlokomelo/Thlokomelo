@@ -21,7 +21,7 @@
 
 ### :hammer_and_wrench: Most Used Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Thlokomelo/7)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thlokomelo"/>
 
 ---
 
