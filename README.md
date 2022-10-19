@@ -6,8 +6,8 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on SQL, MERN Stack and Java projects
+- 🌱 I’m currently learning Java and Spring boot
+- 👯 I’m looking to collaborate on SQL, MERN Stack and Java and Spring Boot projects
 - 📫 How to reach me: thlokomelo.hlomuka@gmail.com
 
 
