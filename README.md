@@ -1,4 +1,4 @@
-### Hi there!! 👋  I'm Thlokomelo, a Web Developer in the making and I love coding!
+### Hi there!! 👋  I'm Thlokomelo, a Junior Web Developer Specializing in Front and Back End Development and I love coding!
 
 
 ---
